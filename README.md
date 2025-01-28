@@ -7,7 +7,7 @@ Hi, I'm Sasan Dilantha!
 	</a>
 </h1>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/SasanDilanthaSTD">
 		<img src="https://komarev.com/ghpvc/?username=SasanDilanthaSTD&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
 	</a>
 	<a href="https://github.com/Bouaskaoun">
