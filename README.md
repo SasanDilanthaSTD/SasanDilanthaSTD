@@ -29,7 +29,7 @@ Hi, I'm Sasan Dilantha!
 
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/SasanDilanthaSTD/Lear_JWT_Auth_Spring)  
+<!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/SasanDilanthaSTD/Lear_JWT_Auth_Spring)  -->
   
 
 - 🌱 I’m currently learning ML for Edge Computing and ROS  
